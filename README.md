@@ -2,7 +2,7 @@
 
 This project is developed by Shashank Agarwal, Manu Singh Bist, Utsav Agrawal of Jaypee Institute of Information Technology submitted as our Major Project-2 in partial fulfillment of the Degree of Bachelor of Technology In Information Technology.
 
-To run the project:
+## Running the Project
 1. Download/git clone the project
 2. Install Python and Django, if not already
 3. Run ```python manage.py runserver```. If this doesn't work, try using ```python3``` instead of ```python```.
