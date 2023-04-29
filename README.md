@@ -1,5 +1,7 @@
 # Development of Secure Communication Methods in Smart Traffic Systems
 
+This project is developed by Shashank Agarwal, Manu Singh Bist, Utsav Agrawal of Jaypee Institute of Information Technology submitted as our Major Project-2 in partial fulfillment of the Degree of Bachelor of Technology In Information Technology.
+
 To run the project:
 1. Download/git clone the project
 2. Install Python and Django, if not already
